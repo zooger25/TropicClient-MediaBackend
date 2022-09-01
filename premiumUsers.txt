@@ -1,2 +1,3 @@
-zooger25=admin;
-jasonsimon=admin;
+{"oneUser":"zooger25=admin;"}
+{"oneUser":"jasonsimon=admin;"}
+{"oneUser":"nukelp=partner;"}
