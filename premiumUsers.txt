@@ -1,2 +1,2 @@
 jasonsimon=admin;
-zooger25=partner;
+zooger25=admin;
