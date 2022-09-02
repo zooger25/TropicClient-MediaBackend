@@ -1,3 +1,2 @@
-{"oneUser":"zooger21235=admin;"}
-{"oneUser":"jasonsimon=admin;"}
-{"oneUser":"zooger25=partner;"}
+jasonsimon=admin;
+zooger25=partner;
