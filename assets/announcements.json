@@ -1,11 +1,7 @@
 {
-  "announcementVisible": true,
-  "announcementTitle": "Announcement",
-  "announcementLine1": "line1",
-  "announcementLine2": "line2",
-  "meta":[
-    "cset": "utf.8",
-  ],
-  "specifications": [],
+  "annoucementTitle": "",
+  "announcementLine1": "",
+  "announcementLine2": "",
+  "announcementVisible": false,
   "announcementIsEvent": false
 }
