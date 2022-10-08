@@ -1,1 +1,1 @@
-{"announcementTitle":"ONLY USED FOR BETA TESTING","announcementLine1":"","announcementLine2":"","announcementVisible":"false","announcementIsEvent":"false","splash":"§c§lDeveloped by zooger25"}
+{"announcementTitle":"ONLY USED FOR BETA TESTING","announcementLine1":"","announcementLine2":"","announcementVisible":"false","announcementIsEvent":"false","splash":"§a§lB§c§lE§a§lT§c§lA"}
