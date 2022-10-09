@@ -1,6 +1,6 @@
 {
   "announcements":[],
   "authSettings":[],
-  "authServicesAvailable":true,
+  "authServicesAvailable":false,
   "splash":"#döner"
 }
