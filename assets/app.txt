@@ -2,5 +2,5 @@
   "announcements":[],
   "authSettings":[],
   "authServicesAvailable":true,
-  "splash":"Hello World!"
+  "splash":"#döner"
 }
