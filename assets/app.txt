@@ -1,7 +1,7 @@
 {
   "announcements":[],
   "authSettings":[
-    "encryption":"AES_256-bit",
+    "encryption":"AES_1.024-bit",
   ],
   "authServicesAvailable":true,
   "splash":"#döner"
