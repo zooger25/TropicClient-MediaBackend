@@ -1,1 +1,6 @@
-{"announcementTitle":"ONLY USED FOR BETA TESTING","announcementLine1":"","announcementLine2":"","announcementVisible":"false","announcementIsEvent":"false","splash":"§eFeels Tropic!"}
+{
+  "announcements":[],
+  "appProperties":[],
+  "playable":true,
+  "splash":"§eFeels Tropic!"
+}
