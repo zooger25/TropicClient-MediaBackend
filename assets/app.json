@@ -1,6 +1,6 @@
 {
   "announcements":[],
   "authSettings":[],
-  "playable":true,
+  "authServicesAvailable":true,
   "splash":"Hello World!"
 }
