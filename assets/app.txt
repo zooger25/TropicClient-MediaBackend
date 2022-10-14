@@ -1,5 +1,5 @@
 {
   "announcements":[],
   "authServicesAvailable":true,
-  "splash":"§6§lHAPPY HALLOWEEN!"
+  "splash":"Jason jason = new Jason();"
 }
