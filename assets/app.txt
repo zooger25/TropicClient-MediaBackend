@@ -1,5 +1,5 @@
 {
   "announcements":[],
   "authServicesAvailable":true,
-  "splash":"#döner"
+  "splash":"§6§lHAPPY HALLOWEEN!"
 }
